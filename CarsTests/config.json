@@ -1,0 +1,7 @@
+{
+ "SiteName": "https://cars.com/",
+ "BrowserName": "chrome",
+ "OutputPath": "../",
+ "Language": "ru",
+ "LocalizationPath": "..\\..\\..\\"
+}
